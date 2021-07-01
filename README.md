@@ -2,6 +2,8 @@ This is a sample app for my blog post at the link below.
 
 [https://duongnt.com/stub-idp](https://duongnt.com/stub-idp)
 
+It is a port into .NET Core of *Sustainsys's* stub IDP which can be found [here](https://github.com/Sustainsys/Saml2/tree/master/Sustainsys.Saml2.StubIdp).
+
 # Usage
 
 ## Build IDP from source code
